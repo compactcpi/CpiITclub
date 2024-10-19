@@ -1,8 +1,43 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Home Page
+2. About Us
+3. Events
+4. Blog/News
+5. Notice
+6. Projects
+7. Join Us
+8. Contact Us
+9. Dashboard
 
-Currently, two official plugins are available:
+Home Page-----
+1. Hero Section
+	* Club Name and Slogan
+	* Call to Action
+2. Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Upcomming Events
+
+4. Club Projects
+
+5. MemberShip Benefits
+
+6. Member Highlights
+
+7. Latest News or Blog Post
+
+8. Sponsors or Partners
+
+9. Footers
+
+
+About Us --------
+1. Introducton
+2. Mission and Vision
+3. History Of The Club
+4. Leadership Team
+5. What We Do. 
+	-Workshops
+	-Events
+	-Projects
+	-Networking
+6. Achievements And Recognition
